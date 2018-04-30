@@ -1,0 +1,5 @@
+.DS_Store
+objs/
+21sh
+.*.swp
+*.dSYM/
