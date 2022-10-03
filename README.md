@@ -1,6 +1,5 @@
 # 21sh
-Simple shell implementation.
-Done with edhomme at school 42, the project is in the stats it was when corrected in april 2018.
+Done with edhomme at school 42, the project is in the state it was when corrected in april 2018.
 ## Implemented features:
 * builtins: echo, cd, setenv, unsetenv, env, exit
 * separation of commands with ';'
